@@ -30,7 +30,7 @@
 
 #### Favourite Platforms
 
-![Databases](https://skillicons.dev/icons?i=azure,netlify,vercel,heroku,cloudflare,replit&theme=dark)
+![Databases](https://skillicons.dev/icons?i=azure,aws,netlify,vercel,heroku,cloudflare,replit&theme=dark)
 
 #### Other tools & technologies
 
